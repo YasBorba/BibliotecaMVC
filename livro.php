@@ -9,7 +9,7 @@ class Livro{
         ['titulo' => 'Rainha Vermelha', 'autor'=> 'Victoria Aveyard' ,'ano publicado' => 2015],
         ['titulo' => 'Jogos Vorazes', 'autor'=> 'Suzanne Collins', 'ano publicado' => 2012],
         ['titulo' => 'O Acordo', 'autor'=> 'Elle Kennedy', 'ano publicado' => 2012],
-        ['titulo' => 'Jogos Vorazes', 'autor'=> 'Suzanne Collins', 'ano publicado' => 2015],
+        ['titulo' => 'Pessoas Normais', 'autor'=> 'Sally Rooney', 'ano publicado' => 2018],
     ];
 
 // define um metodo publico chamado listarAlunos.
